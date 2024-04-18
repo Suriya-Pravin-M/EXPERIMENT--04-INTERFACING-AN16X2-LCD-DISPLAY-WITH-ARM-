@@ -16,8 +16,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ### PROGRAM:
-### NAME: SANGAVI SURESH
-### REG.NO: 212222230130
 ## STM 32 CUBE PROGRAM :
 ```
 /**
@@ -206,7 +204,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  ```
-
+## Output:
 ![Alt text](<Screenshot.png>)
 
 

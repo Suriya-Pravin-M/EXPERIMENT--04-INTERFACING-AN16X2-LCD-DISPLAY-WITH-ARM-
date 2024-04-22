@@ -1,7 +1,4 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-
-
- ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Name: Suriya Pravin M
 ## Date: 18-04-2024
 ## Roll.no: 212223230223
